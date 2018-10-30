@@ -1,0 +1,13 @@
+  Uma tecnologia de processamento a partir dos núcleos físicos onde processos lógicos 
+simulam paralelismo, mas não tão bem como seria em núcleos físicos.
+
+De maneira mais detalhada é um falso paralelismo poís ainda é um só nucleo físico,
+mas este último pode adiantar outro processo enquanto outro não precisa da atenção deste,
+e assim pode fazer um processamento alternado entre os processos ativos
+
+Um exemplo análogo é de caixa de supermercado, um atendente pode ter mais de um caixa para ter 
+espaço para atender outro cliente enquanto o outro so está ensacolando seus itens não requerendo
+atenção do atendente, assim mesmo que seja so uma pessoa, o desempenho melhora.
+
+
+PS: eu ja tinha estudado sobre isso mas não tinha entendido claramente que isso se dá pelos núcleos virtuais.
